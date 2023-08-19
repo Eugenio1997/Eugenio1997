@@ -17,8 +17,15 @@ Estou sempre procurando novas oportunidades para aprender e crescer. Estou anima
 
 
 # Portfólio
+<p>O aplicativo mobile abaixo foi escrito em React Native + Expo.</p>
+<p>Clique no link abaixo e você será redirecionado para uma tela a qual
+conterá duas opções de usar o aplicativo: Web e baixar o aplicativo pela
+Play Store
+</p>
 
-[Link para o portfólio]
+## 🔗 Links
+[![Aplicativo mobile](https://img.shields.io/badge/Aplicativo-Mobile-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/analisedemodelos?utm_source=linktree_profile_share)
+
 
 # Tecnologias
 Aqui estão as tecnologias com as quais já trabalhei e tenho experiência prática.
