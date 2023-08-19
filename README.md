@@ -1,7 +1,7 @@
 
 <h1 align="center"Olá , eu me chamo Eugenio Lopes Fernandes Lima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudante+de+Sistemas+de+Informação;Graduado+em+Redes+de+Computadores;Desenvolvedor+web+fullstack;Stack:%20Angular%20|%20.NET%20|%20SQL%20Server;Sempre%20adquirindo%20novos%20conhecimentos&center=true&width=500&height=50"></a>
+  <a target="_blank"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudante+de+Sistemas+de+Informação;Graduado+em+Redes+de+Computadores;Desenvolvedor+web+fullstack;Stack:%20Angular%20|%20.NET%20|%20SQL%20Server;Sempre%20adquirindo%20novos%20conhecimentos&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">"Sou um aluno do Centro Universitário Cesmac, onde estudo Sistemas de Informação. Sou apaixonado por codificar, projetar e inovar. Sou uma pessoa sociável que adora enfrentar novos desafios e aprender novas habilidades. Adoro conhecer novas pessoas, trocar ideias e espalhar conhecimento e positividade.
