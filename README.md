@@ -46,7 +46,7 @@ Estou sempre procurando novas oportunidades para aprender e crescer. Estou anima
     </a>
   </p>
 
-  <a href="https://github.com/Eugenio1997?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/Eugenio1997?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique%20aqui%20para%20visualizar%20todos%20os%20meus%20repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <details open> 
