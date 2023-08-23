@@ -25,15 +25,9 @@ Estou sempre procurando novas oportunidades para aprender e crescer. Estou anima
 
 
 # Portfólio
-<p>O aplicativo mobile abaixo foi escrito em React Native + Expo.</p>
-<p>Clique no link abaixo e você será redirecionado para uma tela a qual
-conterá duas opções de usar o aplicativo: Web e baixar o aplicativo pela
-Play Store
-</p>
 
-https://github.com/Eugenio1997/ProductCatalog
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘 Projetos</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -52,11 +46,20 @@ https://github.com/Eugenio1997/ProductCatalog
     </a>
   </p>
 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/Eugenio1997?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-## 🔗 Links
-[![Aplicativo mobile](https://img.shields.io/badge/Aplicativo-Mobile-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/analisedemodelos?utm_source=linktree_profile_share)
+<details open> 
+  <summary><h2>Projetos em produção</h2></summary>
+  
+  <p>
+    <b>Clique no card abaixo e você será redirecionado para uma tela na qual conterá a opção de utilizar o aplicativo versão Web ou baixar o aplicativo na Playstore</b>
+  </p>
+  
+  <a href="https://linktr.ee/analisedemodelos?utm_source=linktree_profile_share">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eugenio1997&repo=mobile_discrepanciadental&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="mobile_discrepanciadental">
+      </a>
+</details>
 
 
 # Tecnologias
