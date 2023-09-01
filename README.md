@@ -14,7 +14,7 @@
 <hr/>
 <h4 align="center">"Sou aluno do Centro Universitário Cesmac, onde estudo Sistemas de Informação. Sou apaixonado por codificar, projetar e inovar. Sou uma pessoa sociável que adora enfrentar novos desafios e aprender novas habilidades. Adoro conhecer novas pessoas, trocar ideias e espalhar conhecimento e positividade.
 
-Além dos meus estudos, também trabalho como freelancer e como colaborador de pesquisa na faculdade. Como freelancer, tenho trabalhado em alguns projetos, incluindo o desenvolvimento de uma Web Api em .NET, desenvolvimento de um aplicativo em React Native + Expo. Como colaborador de pesquisa, tenho trabalhado em um projeto que promove o descarte consciente de lixos e medicamentos por meio de gamificação.
+Além dos meus estudos, também trabalho como freelancer e como colaborador de pesquisa na faculdade. Como freelancer, tenho trabalhado em alguns projetos, incluindo o desenvolvimento de uma Web Api em .NET, desenvolvimento de um aplicativo em React Native + Expo. Como colaborador de pesquisa, tenho trabalhado em um projeto que promove o descarte consciente de lixos e medicamentos por meio de gamificação no qual fui responsável pelo desenvolvimento de uma Web Api Rest utilizando .NET Core.
 
 Estou sempre procurando novas oportunidades para aprender e crescer. Estou animado para continuar minha educação e carreira na área de Sistemas de Informação.".</h4>
 <br>
