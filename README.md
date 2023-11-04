@@ -61,6 +61,10 @@ Estou sempre procurando novas oportunidades para aprender e crescer. Estou anima
       </a>
 </details>
 
+ <a href="https://catalogo-produtos.up.railway.app/">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eugenio1997&repo=Catalogo-de-Produtos&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Catalogo-de-Produtos">
+      </a>
+
 
 # Tecnologias
 Aqui estão as tecnologias com as quais já trabalhei e tenho experiência prática.
