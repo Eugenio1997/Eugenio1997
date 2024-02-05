@@ -29,9 +29,6 @@ Além dos meus estudos, também trabalho como freelancer e como colaborador de p
     <a href="https://github.com/Eugenio1997/batteries-project-backend">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eugenio1997&repo=batteries-project-backend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Batteries Project Backend">
     </a>
-    <a href="https://github.com/Eugenio1997/mobile_discrepanciadental">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eugenio1997&repo=mobile_discrepanciadental&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="mobile_discrepanciadental">
-    </a>
     <a href="https://github.com/Eugenio1997/ColabProject">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eugenio1997&repo=ColabProject&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ColabProject">
     </a>
@@ -50,9 +47,6 @@ Além dos meus estudos, também trabalho como freelancer e como colaborador de p
     <b>Clique no card abaixo e você será redirecionado para uma tela na qual conterá a opção de utilizar o aplicativo versão Web ou baixar o aplicativo na Playstore</b>
   </p>
   
-  <a href="https://linktr.ee/analisedemodelos?utm_source=linktree_profile_share">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eugenio1997&repo=mobile_discrepanciadental&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="mobile_discrepanciadental">
-      </a>
 </details>
 
  <a href="https://catalogo-produtos.up.railway.app/">
