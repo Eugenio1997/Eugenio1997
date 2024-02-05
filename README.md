@@ -12,16 +12,12 @@
   </a>
 </p>
 <hr/>
-<h4 align="center">"Sou aluno do Centro Universitário Cesmac, onde estudo Sistemas de Informação. Sou apaixonado por codificar, projetar e inovar. Sou uma pessoa sociável que adora enfrentar novos desafios e aprender novas habilidades. Adoro conhecer novas pessoas, trocar ideias e espalhar conhecimento e positividade.
-
-Além dos meus estudos, também trabalho como freelancer e como colaborador de pesquisa na faculdade. Como freelancer, tenho trabalhado em alguns projetos, incluindo o desenvolvimento de uma Web Api em .NET, desenvolvimento de um aplicativo em React Native + Expo. Como colaborador de pesquisa, tenho trabalhado em um projeto que promove o descarte consciente de lixos e medicamentos por meio de gamificação no qual fui responsável pelo desenvolvimento de uma Web Api Rest utilizando .NET Core.
+<h4 align="center">"Sou aluno do Centro Universitário Cesmac, onde estudo Sistemas de Informação.
+Além dos meus estudos, também trabalho como freelancer e como colaborador de pesquisa na faculdade. Como freelancer, tenho trabalhado em alguns projetos, incluindo o desenvolvimento de uma Web Api em .NET. Como colaborador de pesquisa, tenho trabalhado em um projeto que promove o descarte consciente de lixos e medicamentos por meio de gamificação no qual fui responsável pelo desenvolvimento de uma Web Api Rest utilizando .NET Core.
 
 Estou sempre procurando novas oportunidades para aprender e crescer. Estou animado para continuar minha educação e carreira na área de Sistemas de Informação.".</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Eugenio1997&label=Profile%20views&color=0e75b6&style=plastic" alt="Eugenio1997" /> </p>
-
-## 🔥 Estatísticas
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Eugenio1997&theme=algolia&locale=pt_BR" alt="Eugenio1997"  /></p>
 
 
 # Portfólio
