@@ -18,8 +18,6 @@
 <details open> 
   <summary><h2>📘 Projetos</h2></summary>
 
-  https://github.com/Eugenio1997/AV03-LAB-PROG-II
-
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
