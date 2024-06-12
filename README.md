@@ -30,7 +30,7 @@
     <a href="https://github.com/Eugenio1997/ProductCatalog">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eugenio1997&repo=ProductCatalog&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ProductCatalog">
     </a>
-    <a href="https://github.com/Eugenio1997/ProductCatalog">
+    <a href="https://github.com/Eugenio1997/AV03-LAB-PROG-II">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eugenio1997&repo=AV03-LAB-PROG-II&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AV03-LAB-PROG-II">
     </a>
   </p>
