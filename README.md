@@ -12,16 +12,13 @@
   </a>
 </p>
 <hr/>
-<h4 align="center">"Sou aluno do Centro Universitário Cesmac, onde estudo Sistemas de Informação.
-Além dos meus estudos, também trabalho como freelancer e como colaborador de pesquisa na faculdade. Como freelancer, tenho trabalhado em alguns projetos, incluindo o desenvolvimento de uma Web Api em .NET. Como colaborador de pesquisa, tenho trabalhado em um projeto que promove o descarte consciente de lixos e medicamentos por meio de gamificação no qual fui responsável pelo desenvolvimento de uma Web Api Rest utilizando .NET Core."</h4>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Eugenio1997&label=Profile%20views&color=0e75b6&style=plastic" alt="Eugenio1997" /> </p>
-
 
 # Portfólio
 
 <details open> 
   <summary><h2>📘 Projetos</h2></summary>
+
+  https://github.com/Eugenio1997/AV03-LAB-PROG-II
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -35,23 +32,13 @@ Além dos meus estudos, também trabalho como freelancer e como colaborador de p
     <a href="https://github.com/Eugenio1997/ProductCatalog">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eugenio1997&repo=ProductCatalog&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ProductCatalog">
     </a>
+    <a href="https://github.com/Eugenio1997/ProductCatalog">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eugenio1997&repo=AV03-LAB-PROG-II&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AV03-LAB-PROG-II">
+    </a>
   </p>
 
   <a href="https://github.com/Eugenio1997?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique%20aqui%20para%20visualizar%20todos%20os%20meus%20repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
-
-<details open> 
-  <summary><h2>Projetos em produção</h2></summary>
-  
-  <p>
-    <b>Clique no card abaixo e você será redirecionado para uma tela na qual conterá a opção de utilizar o aplicativo versão Web ou baixar o aplicativo na Playstore</b>
-  </p>
-  
-</details>
-
- <a href="https://catalogo-produtos.up.railway.app/">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Eugenio1997&repo=Catalogo-de-Produtos&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Catalogo-de-Produtos">
-      </a>
 
 
 # Tecnologias
