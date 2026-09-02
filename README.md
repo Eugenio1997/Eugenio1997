@@ -1,6 +1,6 @@
 # Sobre
 
-Sou Analista de Sistemas e Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web utilizando **C#**, **ASP.NET Core MVC**, **Entity Framework Core**, **Dapper** e **Oracle Database**.
+Sou Analista de Sistemas e Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web utilizando **C#**, **ASP.NET Core MVC**, **Entity Framework Core**, **Dapper**, **Oracle Database**, **SQL Server** e **Postgres**.
 
 Atuo tanto no desenvolvimento de software quanto no suporte e infraestrutura de TI, participando desde o levantamento de requisitos e modelagem de banco de dados até a implantação e manutenção de sistemas em produção.
 
@@ -19,6 +19,8 @@ Tenho experiência em:
 Possuo experiência com:
 
 * Oracle Database;
+* Postgres
+* SQL Server
 * Modelagem de dados;
 * Desenvolvimento e otimização de consultas SQL;
 * Análise de planos de execução;
