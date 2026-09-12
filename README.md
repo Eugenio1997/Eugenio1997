@@ -1,6 +1,6 @@
 # Sobre
 
-Sou Analista de Sistemas e Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web utilizando **C#**, **ASP.NET Core MVC**, **Entity Framework Core**, **Dapper**, **Oracle Database**, **SQL Server** e **Postgres**.
+Sou Analista de Sistemas e Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web e api's rest utilizando **C#**, **ASP.NET Core MVC**, **ASP.NET Web Api**, **Entity Framework Core**, **Dapper**, **Oracle Database**, **SQL Server** e **Postgres**.
 
 Atuo tanto no desenvolvimento de software quanto no suporte e infraestrutura de TI, participando desde o levantamento de requisitos e modelagem de banco de dados até a implantação e manutenção de sistemas em produção.
 
@@ -10,7 +10,6 @@ Tenho experiência em:
 * Integração com **Active Directory (AD)**;
 * Implementação de autenticação corporativa;
 * Publicação e gerenciamento de aplicações em **IIS**;
-* Desenvolvimento de funcionalidades em tempo real utilizando **SignalR**;
 * Modelagem conceitual, lógica e física de bancos de dados;
 * Integração entre aplicações .NET e Oracle Database.
 
@@ -22,8 +21,7 @@ Possuo experiência com:
 * Postgres
 * SQL Server
 * Modelagem de dados;
-* Desenvolvimento e otimização de consultas SQL;
-* Análise de planos de execução;
+* Implementação e manutenção de consultas SQL; 
 * Utilização de índices para melhoria de desempenho;
 * Entity Framework Core;
 * Dapper.
@@ -33,7 +31,7 @@ Possuo experiência com:
 Também possuo experiência com:
 
 * Administração de ambientes Windows;
-* Active Directory;
+* Active Directory via RSAT;
 * Citrix XenApp;
 * Monitoramento de infraestrutura de TI;
 * Suporte técnico presencial e remoto;
@@ -41,4 +39,4 @@ Também possuo experiência com:
 
 ### Objetivo Profissional
 
-Busco constantemente aprimorar meus conhecimentos em desenvolvimento de software, arquitetura de sistemas e banco de dados, contribuindo para a criação de soluções eficientes, escaláveis e alinhadas às necessidades do negócio.
+Busco constantemente aprimorar meus conhecimentos em desenvolvimento de software e banco de dados, contribuindo para a criação de soluções alinhadas às necessidades do negócio.
